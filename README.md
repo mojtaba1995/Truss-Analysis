@@ -1,8 +1,3 @@
-
-
-TRUSS.TXT is input file and TRUSS_RES.TXT is output.
-
-
 # Truss Analysis
 
 This code is for analyzing truss using stiffness matrix. This code was developed based on a course project for structural analysis course.
